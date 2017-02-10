@@ -1,0 +1,7 @@
+Neos: &settings
+  Neos:
+    userInterface:
+      requireJsPathMapping:
+        'Flownative.Neos.Editors/Inspector': 'resource://Flownative.Neos.Editors/Public/Scripts/Inspector'
+
+TYPO3: *settings
