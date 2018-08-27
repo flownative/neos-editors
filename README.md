@@ -1,3 +1,7 @@
+[![GPL-3.0 license](http://img.shields.io/badge/license-GPL3.0-brightgreen.svg)](https://opensource.org/licenses/GPL-3.0)
+[![Packagist](https://img.shields.io/packagist/v/flownative/neos-editors.svg)](https://packagist.org/packages/flownative/neos-editors)
+[![Maintenance level: Acquaintance](https://img.shields.io/badge/maintenance-%E2%99%A1-ff69b4.svg)](https://www.flownative.com/en/products/open-source.html)
+
 # Flownative Neos Editors
 
 This package is home to additional editors (and validators) for use with
