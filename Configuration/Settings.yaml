@@ -4,3 +4,8 @@ Neos:
       requireJsPathMapping:
         'Flownative.Neos.Editors/Inspector': 'resource://Flownative.Neos.Editors/Public/Scripts/Inspector'
 
+    Ui:
+      resources:
+        javascript:
+          'Flownative.Neos.Editors:Yaml':
+            resource: resource://Flownative.Neos.Editors/Public/Scripts/ReactUI/Plugin.js
