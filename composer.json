@@ -4,7 +4,7 @@
     "license": "GPL-3.0",
     "description": "A package with additional editors for the Neos inspector",
     "require": {
-        "neos/neos": "~2.3 || ~3.0"
+        "neos/neos": "~3.0 || ~4.0"
     },
     "extra": {
         "neos": {
@@ -81,7 +81,14 @@
             "Neos.Fusion-20170120013047",
             "Neos.Flow-20170125103800",
             "Neos.Seo-20170127154600",
-            "Neos.Flow-20170127183102"
+            "Neos.Flow-20170127183102",
+            "Neos.Kickstart-20161124230102",
+            "Neos.SiteKickstarter-20161125002311",
+            "Neos.SiteKickstarter-20161125095901",
+            "Neos.Kickstarter-20161125110814",
+            "Neos.Fusion-20180211175500",
+            "Neos.Fusion-20180211184832",
+            "Neos.Flow-20180415105700"
         ]
     }
 }
