@@ -11717,7 +11717,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
  */
 var YamlValidator = function YamlValidator(value) {
     if (typeof value !== 'string') {
-        undefined.addError(_neosUiI18n2.default.translate('content.inspector.validators.stringValidator.stringIsExpected'));
+        return _react2.default.createElement(_neosUiI18n2.default, { id: 'content.inspector.validators.stringValidator.stringIsExpected' });
     }
 
     try {

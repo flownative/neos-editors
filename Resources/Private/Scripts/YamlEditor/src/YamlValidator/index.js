@@ -7,7 +7,7 @@ import yaml from '../../../../../Public/Scripts/Inspector/Validators/js-yaml.min
  */
 const YamlValidator = value => {
     if (typeof(value) !== 'string') {
-        this.addError(I18n.translate('content.inspector.validators.stringValidator.stringIsExpected'));
+        return <I18n id="content.inspector.validators.stringValidator.stringIsExpected"/>;
     }
 
     try {
